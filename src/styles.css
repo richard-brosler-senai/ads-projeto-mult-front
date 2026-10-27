@@ -1,1 +1,4 @@
-/* You can add global styles to this file, and also import other style files */
+body { background: #f5f7fb; color: #253044; } 
+.app-shell { min-height: 100vh; } 
+.content-area { max-width: 1150px; } 
+.brand-mark { letter-spacing: -.025em; }
